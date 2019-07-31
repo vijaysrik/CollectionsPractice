@@ -6,6 +6,11 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.ListIterator;
+/**
+ * Practice Exercise to understand LinkedList methods
+ * @author vijay
+ *
+ */
 
 public class LinkedListPractice {
 
