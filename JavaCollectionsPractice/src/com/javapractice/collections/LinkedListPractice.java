@@ -151,6 +151,9 @@ public class LinkedListPractice {
 		}
 		
 		/** To convert a linked list to array list. */
+		List<String> linkToArray = new ArrayList<String>();
+		linkToArray.addAll(clonedList);
+		System.out.println("Linked to ArrayList "+linkToArray);
 		
 	}
 
